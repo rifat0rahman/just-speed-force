@@ -4,6 +4,7 @@ import About from '../views/about.vue'
 import Team from '../views/team.vue'
 import Progress from '../views/progress.vue'
 import Research from '../views/research.vue'
+import Bank from "../views/bank.vue"
 
 const router = createRouter({
   history: createWebHistory(import.meta.env.BASE_URL),
@@ -32,6 +33,11 @@ const router = createRouter({
       path: '/research',
       name: 'research',
       component: Research,
+    },
+    {
+      path: '/bank',
+      name: 'bank',
+      component: Bank,
     },
 
   ],

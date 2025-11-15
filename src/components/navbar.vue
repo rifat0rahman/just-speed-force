@@ -116,7 +116,8 @@ export default {
                 { name: 'Progress', path: '/progress' },
                 { name: 'Team', path: '/team' },
                 { name: 'Research', path: '/research' },
-                { name: 'About Us', path: '/about' }
+                { name: 'About Us', path: '/about' },
+                { name: 'Transparency', path: '/bank' }
             ]
         };
     },
