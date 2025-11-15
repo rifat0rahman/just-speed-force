@@ -257,24 +257,24 @@ export default {
             ],
             teamMembers: [
                 {
-                    name: "Rifat Rahman",
+                    name: "Ragib Ishrak",
                     role: "Team Leader",
-                    photo: "https://randomuser.me/api/portraits/men/32.jpg",
+                    photo: "https://scontent.fjsr18-1.fna.fbcdn.net/v/t39.30808-6/577005862_122111967525017220_4101774396913376416_n.jpg?_nc_cat=103&ccb=1-7&_nc_sid=a5f93a&_nc_eui2=AeFIjI3lv444cuoHCB1t6Uq-YYmL4rYd3ZFhiYvith3dkao2IdGWjj1Z9NC-The4IfkJ0m0GojrUhJFMhW-H2cxI&_nc_ohc=dhWJbLOhk5oQ7kNvwF_pOaZ&_nc_oc=AdnbpLhwuUfCqUYrSS7xSrEmqiUBe3iBsI6Jms-t0yhwcFVRc7OWMqOOi3jmmPajrg4&_nc_zt=23&_nc_ht=scontent.fjsr18-1.fna&_nc_gid=nE0ENqz9AgssQsyiPv3YHQ&oh=00_Afim_9c_tFtQy_csrElWzdF8RZjgzxM_qQfAOc8K2GBscg&oe=691E16FE",
                 },
                 {
-                    name: "Sarah Ahmed",
+                    name: "Siam Minhaj",
                     role: "Aerodynamics Engineer",
-                    photo: "https://randomuser.me/api/portraits/women/45.jpg",
+                    photo: "https://scontent.fdac181-1.fna.fbcdn.net/v/t39.30808-6/574437221_804565245701462_7504903121816024173_n.jpg?_nc_cat=108&ccb=1-7&_nc_sid=6ee11a&_nc_eui2=AeHzaRX5KuelTZDweETZAIBtBGtEJF1bZ5kEa0QkXVtnmb5L7La-_1Cn1ZoAeXzL4anRSD6wtYyKifmSDqy281pz&_nc_ohc=p4VehBSXm9cQ7kNvwH0FoXx&_nc_oc=AdkmcOvP7BBObAiZwyOeYUYcjhZ9yj6wulV9RJe8tQY6cHDNXnLwBmo5kj0fnpwK5pY&_nc_zt=23&_nc_ht=scontent.fdac181-1.fna&_nc_gid=d3KJgujMGuSO3Y2Zt-EgIw&oh=00_AfhMMUfyDUrLPys6DpDW4Me_nJR-cqC8ieKcwOPuiNjIeg&oe=691E0F0D",
                 },
                 {
-                    name: "Zahid Hasan",
+                    name: "Arikuzzaman",
                     role: "Mechanical Designer",
-                    photo: "https://randomuser.me/api/portraits/men/76.jpg",
+                    photo: "https://scontent.fdac181-1.fna.fbcdn.net/v/t39.30808-1/480577064_1683316499287023_3564364721851127216_n.jpg?stp=dst-jpg_s480x480_tt6&_nc_cat=105&ccb=1-7&_nc_sid=e99d92&_nc_eui2=AeGk8Y2Nq_viaV2_1mDASuTTXV1FC89cfN1dXUULz1x83dECWS1xXMuqmpVOjFnkZF96zyuIPBbg5YEVsI1FkQmH&_nc_ohc=jpqFJsDLNc0Q7kNvwGE5f63&_nc_oc=AdlOmVjPIYDfj0eQJXdUZxKsQcI_uKW8etIlRnorUgJj1JGUlbVu0AuAoEB9EoCWa38&_nc_zt=24&_nc_ht=scontent.fdac181-1.fna&_nc_gid=d5VO_HoGoZFs2iqD5dLGAw&oh=00_AfjotBVqhN4b8Qpxuc11jOD9mH8NeTk9eofLdonWj2gFGw&oe=691E274E",
                 },
                 {
-                    name: "Meher Tasnim",
+                    name: "Rifat Rahman",
                     role: "Electronics Engineer",
-                    photo: "https://randomuser.me/api/portraits/women/68.jpg",
+                    photo: "https://scontent.fjsr18-2.fna.fbcdn.net/v/t39.30808-6/480669092_2035332083639123_2599913038205254924_n.jpg?_nc_cat=110&ccb=1-7&_nc_sid=a5f93a&_nc_eui2=AeGhcw5GGpp8iGTXtyhcaY3QYYUEWrtfZzthhQRau19nO68DiXIrNvieeUk77UX70UPSbfLlmUA--4fWjWLHBmbO&_nc_ohc=41spMMUO4FIQ7kNvwEqtTWK&_nc_oc=AdkE6ttoxr2vXt2nWzeVB6aULuU1oDnpTdw4QUpvC16obQaRYqXZG0FlddeIvNijw6Q&_nc_zt=23&_nc_ht=scontent.fjsr18-2.fna&_nc_gid=Z7bJ9E7FCAdp9RHgi0zX3w&oh=00_AfiFUy3OZHE3TaHRyKMFrV7wOYBqWxexNeFaiSj32rjHHQ&oe=691E0F49",
                 },
                 {
                     name: "Naimul Islam",
