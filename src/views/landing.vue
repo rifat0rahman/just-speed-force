@@ -22,11 +22,11 @@
                         NEXT-GEN RACING
                     </div>
                     <h1 class="mb-6 text-7xl md:text-8xl font-black uppercase tracking-tight">
+                        <span class="block text-6xl">Race <span class="ms-4">Beyond</span></span>
                         <span
                             class="block text-transparent bg-clip-text bg-gradient-to-r from-red-500 via-orange-500 to-yellow-500 animate-gradient">
-                            Speed
+                            Imagination
                         </span>
-                        <span class="block">Redefined</span>
                     </h1>
                     <p class="mb-8 text-xl md:text-2xl text-gray-300 leading-relaxed max-w-2xl">
                         Engineering the future of Formula 1 with cutting-edge aerodynamics,
